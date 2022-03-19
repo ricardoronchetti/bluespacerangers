@@ -19,7 +19,7 @@
       </ul>
     </li>
     <li><a href="#authors">Authors</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -44,10 +44,10 @@ Blue Spacerangers is an endless runner with a shoot 'em up vibe.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-## License
+<!-- DEMO -->
+## Demo
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+A live [Demo] (https://ricardoronchetti.github.io/bluespacerangers/) is available.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -56,7 +56,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Gustavo del Llano - [LinkedIn](https://github.com/GustavodelLlano)
+Gustavo del Llano - [LinkedIn](https://linkedin.com/in/gustavo-del-llano-villarroel)<br />
 Ricardo Ronchetti - [LinkedIn](https://linkedin.com/in/ricardoronchetti)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
