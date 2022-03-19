@@ -47,7 +47,7 @@ Blue Spacerangers is an endless runner with a shoot 'em up vibe.
 <!-- DEMO -->
 ## Demo
 
-A live [Demo] (https://ricardoronchetti.github.io/bluespacerangers/) is available.
+A live [Demo](https://ricardoronchetti.github.io/bluespacerangers) is available.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
